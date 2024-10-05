@@ -22,7 +22,7 @@ This Apex class, `Util_GlobalValueSetUpdater`, allows you to update Global Value
 git clone https://github.com/vdev2x/global-value-set-updater.git
 ```
 
-2. Deploy the `Util_GlobalValueSetUpdater` class to your Salesforce org using Salesforce DX or any deployment tool.
+2. Deploy the classes `Util_GlobalValueSetUpdater`, `Util_GlobalValueSetUpdater_Wrapper` and `Util_GlobalValueSetUpdater_Test` to your Salesforce org using Salesforce DX or any deployment tool.
 
 3. Ensure that Tooling API access is enabled in your Salesforce org.
 
